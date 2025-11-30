@@ -1,5 +1,5 @@
 # 💫 About Me:
-💬 Ask me about web development<br>👀 working as a Software Developer Intern at CoreCard Software Inc.<br>🌱 I’m currently learning C#, .NET, and RESTful API,angular.<br>💬 Ask me about Web Development<br>📫 How to reach me pujayadavyadav9@gmail.com<br>⚡️ Fun fact I love to improve my understanding and competence at every point in life.
+💬 Ask me about web development<br>👀 working as a Software Developer  at CoreCard Software Inc.<br>🌱 I’m currently learning C#, .NET, and RESTful API,angular.<br>💬 Ask me about Web Development<br>📫 How to reach me pujayadavyadav9@gmail.com<br>⚡️ Fun fact I love to improve my understanding and competence at every point in life.
 
 
 ## 🌐 Socials:
